@@ -32,7 +32,7 @@ define_window_layout_xml {<?xml version="1.0" encoding="UTF-8"?>
 }
 Root {
  inputs 0
- name C:/Users/ikuta/Documents/projects/github/yikuta1/Anime4KNuke/scripts/Anime4KNuke_sample.nk
+ name C:/Temp/Anime4KNuke/scripts/Anime4KNuke_sample.nk
  project_directory "\[python \{nuke.script_directory()\}]"
  frame 100
  first_frame 71
