@@ -7,7 +7,7 @@ Original Repository is [Anime4K](https://github.com/bloc97/Anime4K)
 
 scriptsディレクトリ以下にサンプルのスクリプトがあります。
 
-There is a sample .nk script under scripts
+There is a sample .nk script under scripts directory.
 
 Anim4KNuke/scripts/Anime4KNuke_sample.nk
 
